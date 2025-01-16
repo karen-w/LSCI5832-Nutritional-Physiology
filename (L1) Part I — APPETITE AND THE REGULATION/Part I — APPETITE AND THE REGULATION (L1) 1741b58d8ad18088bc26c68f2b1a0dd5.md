@@ -81,7 +81,7 @@
         
         |  | ECF | ICF |
         | --- | --- | --- |
-        | Ions | Large amounts of  Na<sup>+</sup>, Cl<sup>-</sup>and HCO<sub>3</sub><sup>-</sup> (bicarbonate) & PO<sub>4</sub><sup>-</sup>(phosphate)| Large amounts of   K<sup>+</sup>, Mg<sup>2+</sup>
+        | Ions | Large amounts of  Na<sup>+</sup>, Cl<sup>-</sup>and HCO<sub>3</sub><sup>-</sup> (bicarbonate)| Large amounts of   K<sup>+</sup>, Mg<sup>2+</sup> & PO<sub>4</sub><sup>-</sup>(phosphate) |
         | Nutrients | O<sub>2</sub>, glucose, fatty acids and amino acids |  |
         | Waste Products | CO<sub>2</sub> (cells → lungs for excretion)
         Others → kidneys for excretion |  |
