@@ -33,7 +33,7 @@
         **Cell**
         • Basic living unit of body
         • Specifically adapted to perform 1 (or few) functions 
-        ***e.g.*** RBC: transport O$_2$ lungs → tissues
+        ***e.g.*** RBC: transport O<sub>2</sub> lungs → tissues
         
         **Organ**
         Aggregate of different cells held by intracellular supporting structures
@@ -81,10 +81,9 @@
         
         |  | ECF | ICF |
         | --- | --- | --- |
-        | Ions | Large amounts of  Na$^+$, Cl**$^-$**and HCO$_3{ }^{ -}$ (bicarbonate) | Large amounts of   K$^+$, Mg$^{2+}$ 
-        & PO$_4{ }^{ -}$(phosphate) |
-        | Nutrients | O$_2$, glucose, fatty acids and amino acids |  |
-        | Waste Products | CO$_2$ (cells → lungs for excretion)
+        | Ions | Large amounts of  Na<sup>+</sup>, Cl<sup>-</sup>and HCO<sub>3</sub><sup>-</sup> (bicarbonate) & PO<sub>4</sub><sup>-</sup>(phosphate)| Large amounts of   K<sup>+</sup>, Mg<sup>2+</sup>
+        | Nutrients | O<sub>2</sub>, glucose, fatty acids and amino acids |  |
+        | Waste Products | CO<sub>2</sub> (cells → lungs for excretion)
         Others → kidneys for excretion |  |
         
         <aside>
@@ -103,7 +102,7 @@
             
             ***e.g.***
             
-            - Lungs provide O$_2$ to ECF for replenishment of those used by cells
+            - Lungs provide O<sub>2</sub> to ECF for replenishment of those used by cells
             - Kidneys maintain constant ion concentrations
             - Gastrointestinal system provides nutrients
         
@@ -150,7 +149,7 @@
         
         **Respiratory system**
         
-        When blood passes through **lungs**, O$_2$ is picked up in the **alveoli**
+        When blood passes through **lungs**, O<sub>2</sub> is picked up in the **alveoli**
         
         ![image.png](image%205.png)
         
@@ -178,14 +177,14 @@
         
         **Lungs**
         
-        1. Simultaneously when blood picks up O$_2$, CO$_2$ is released from blood into alveoli
-        2. CO$_2$ is the most abundant end products of metabolism
+        1. Simultaneously when blood picks up O<sub>2</sub>, CO<sub>2</sub> is released from blood into alveoli
+        2. CO<sub>2</sub> is the most abundant end products of metabolism
         
         ![image.png](image%208.png)
         
         **Kidneys**
         
-        1. Remove most substances besides CO$_2$ including urea, excess ions and water from food
+        1. Remove most substances besides CO<sub>2</sub> including urea, excess ions and water from food
         2. Most of these substances are **POORLY reabsorbed** and pass through renal tubules into urine
         
         ![image.png](image%209.png)
@@ -238,9 +237,9 @@
         
         **(ii) Insulin** **—** controls glucose metabolism
         
-        **(iii) Adrenocortical hormones** **—** control Na$^+$, K$^+$ and protein metabolism
+        **(iii) Adrenocortical hormones** **—** control Na<sup>+</sup>, K<sup>+</sup> and protein metabolism
         
-        **(iv) Parathyroid hormone** **—** controls bone Ca$^{2+}$ and PO$_4$$^-$ (affect bone density)
+        **(iv) Parathyroid hormone** **—** controls bone Ca<sup>2+</sup> and PO<sub>4</sub><sup>-</sup> (affect bone density)
         
         <aside>
         💡
@@ -257,11 +256,11 @@
         
         ***e.g.***
         
-        **(i) Respiratory system** **—** operates in association with the nervous system, regulates CO$_2$ concentration in ECF
+        **(i) Respiratory system** **—** operates in association with the nervous system, regulates CO<sub>2</sub> concentration in ECF
         
         **(ii) Liver and pancreas** **—** regulate concentration of glucose in ECF
         
-        **(iii) Kidneys —** regulate concentration of H$^+$, Na$^+$, K$^+$, PO$_4$$^-$ and other ions in ECF
+        **(iii) Kidneys —** regulate concentration of H<sup>+</sup>, Na<sup>+</sup>, K<sup>+</sup>, PO<sub>4</sub><sup>-</sup> and other ions in ECF
         
         <aside>
         💡
@@ -275,12 +274,12 @@
         
         Most control systems of the body act by `-ve` feedback 
         
-        ***e.g.***  **CO$_2$ conc. in ECF**
+        ***e.g.***  **CO<sub>2</sub> conc. in ECF**
         
-        1. High conc. CO$_2$ in ECF ⇒ ⬆️ pulmonary ventilation
-        2. Lungs expire greater amounts of CO$_2$ from body ⇒ 🔻conc. CO$_2$ in ECF
-        3. High conc. CO$_2$ in ECF initiates events that 🔻conc. towards normal, which is NEGATIVE/OPPOSITE to the initiating stimulus
-        4. Conversely, if conc. CO$_2$ too low ⇒ feedback to ⬆️ the concentration (also negative to initiating stimulus)
+        1. High conc. CO<sub>2</sub> in ECF ⇒ ⬆️ pulmonary ventilation
+        2. Lungs expire greater amounts of CO<sub>2</sub> from body ⇒ 🔻conc. CO<sub>2</sub> in ECF
+        3. High conc. CO<sub>2</sub> in ECF initiates events that 🔻conc. towards normal, which is NEGATIVE/OPPOSITE to the initiating stimulus
+        4. Conversely, if conc. CO<sub>2</sub> too low ⇒ feedback to ⬆️ the concentration (also negative to initiating stimulus)
         
         In general, if some factor becomes excessive or deficient, control system initiates `-ve` feedback: a series of changes that return the factor toward a certain mean value, thus **maintaining homeostasis**
         
@@ -513,7 +512,7 @@
             | Leptin | Fat tissue (3.2) | 🚫 | 🌟 |
             | Insulin | Pancreas (3.3) | 🚫 | 🌟 |
             | Ghrelin (hunger) | Stomach (3.4) | 🌟 | / |
-            | PYY$_{3-36}$ | Colon (3.4) | 🚫 | / |
+            | PYY<sub>3-36</sub> | Colon (3.4) | 🚫 | / |
             
             🚫 Inhibition 🌟Stimulation
             
